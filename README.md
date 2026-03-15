@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Saud Al-Asmari
 
-<!--
-**x0ll/x0ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student – Cybersecurity Track  
+🏫 King Khalid University  
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Focus
+- Vulnerability Assessment & Penetration Testing
+- Web Security
+- Network Security
+- Security Automation with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools
+Kali Linux • Burp Suite • Metasploit • Wireshark • Python
+
+## 🚀 Projects
+- Subdomain Finder
+- Smart Explorer App
+- SpaceAR
+
+## 📫 Contact
+LinkedIn: linkedin.com/in/saud-al-asmari
