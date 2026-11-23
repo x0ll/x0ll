@@ -1,21 +1,21 @@
-# Hi 👋 I'm Saud Al-Asmari
+# Hi  I'm Saud Al-Asmari
 
-🎓 Computer Science Student – Cybersecurity Track  
-🏫 King Khalid University  
+ Computer Science Student – Cybersecurity Track  
+King Khalid University  
 
-## 🔐 Cybersecurity Focus
+##  Cybersecurity Focus
 - Vulnerability Assessment & Penetration Testing
 - Web Security
 - Network Security
 - Security Automation with Python
 
-## 🛠 Tools
+##  Tools
 Kali Linux • Burp Suite • Metasploit • Wireshark • Python
 
-## 🚀 Projects
+##  Projects
 - Subdomain Finder
 - Smart Explorer App
 - SpaceAR
 
-## 📫 Contact
+##  Contact
 LinkedIn: linkedin.com/in/saud-al-asmari
